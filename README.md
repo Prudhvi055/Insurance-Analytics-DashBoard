@@ -126,16 +126,13 @@ Visualization dashboard developed for:
 
 ## Dashboard Screenshots
 
-### Excel Dashboard
-
-<img width="771" height="820" alt="ExcelDashboard png" src="https://github.com/user-attachments/assets/38752cd9-6d6f-4aca-8b0c-f8a10ae43872" />
-
-
 ### Power BI Dashboard
 
 <img width="1347" height="746" alt="PowerBIDashboard png" src="https://github.com/user-attachments/assets/2adf79b7-e99f-4db4-aecd-2078c5d36169" />
 
+### Excel Dashboard
 
+<img width="771" height="820" alt="ExcelDashboard png" src="https://github.com/user-attachments/assets/102da656-c08a-446e-a321-e7e4dce4e181" />
 ---
 
 ## Project Outcome
